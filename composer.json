@@ -1,0 +1,17 @@
+{
+    "name": "ingwar1991/php_db_connections",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "ingwar1991"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ingwar1991\\DBConnections\\": "src/"
+        }
+    },
+    "require": {}
+}
